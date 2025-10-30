@@ -16,5 +16,20 @@ namespace LKSMart
         {
             InitializeComponent();
         }
+
+        private void guna2Button4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2DateTimePicker1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button4_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
