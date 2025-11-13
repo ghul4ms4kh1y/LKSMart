@@ -58,6 +58,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="KelolaFromLaporan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KelolaFromLaporan.Designer.cs">
+      <DependentUpon>KelolaFromLaporan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KelolaFromUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KelolaFromUser.Designer.cs">
+      <DependentUpon>KelolaFromUser.cs</DependentUpon>
+    </Compile>
     <Compile Include="Log Activity.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -68,6 +80,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KelolaFromLaporan.resx">
+      <DependentUpon>KelolaFromLaporan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KelolaFromUser.resx">
+      <DependentUpon>KelolaFromUser.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Log Activity.resx">
       <DependentUpon>Log Activity.cs</DependentUpon>

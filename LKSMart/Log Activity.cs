@@ -31,5 +31,10 @@ namespace LKSMart
         {
 
         }
+
+        private void Log_Activity_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
